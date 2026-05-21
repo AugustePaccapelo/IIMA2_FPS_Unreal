@@ -11345,3 +11345,834 @@ Sampler Limit: 32
 [2026.05.21-12.54.22:639][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16332.271484
 [2026.05.21-12.54.23:637][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.21-12.54.23:638][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16332.937500, Update Interval: 320.255737
+[2026.05.21-12.54.55:499][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.21-13.00.41:416][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16711.027344
+[2026.05.21-13.00.42:417][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.00.42:418][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16711.695312, Update Interval: 312.881866
+[2026.05.21-13.06.14:459][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.21-13.06.16:037][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.21-13.06.39:537][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17069.177734
+[2026.05.21-13.06.40:537][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.06.40:537][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17069.843750, Update Interval: 341.527771
+[2026.05.21-13.12.51:967][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17441.804688
+[2026.05.21-13.12.52:117][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.12.52:117][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17441.937500, Update Interval: 313.779114
+[2026.05.21-13.18.53:537][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17803.341797
+[2026.05.21-13.18.54:543][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.18.54:543][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17804.005859, Update Interval: 307.624756
+[2026.05.21-13.24.04:469][  0]LogDerivedDataCache: C:/Users/elize/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.21-13.24.46:943][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18156.744141
+[2026.05.21-13.24.47:947][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.24.47:947][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18157.416016, Update Interval: 347.590576
+[2026.05.21-13.29.02:072][753]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.05.21-13.29.02:084][753]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.05.21-13.29.02:094][753]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.05.21-13.29.02:112][754]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.05.21-13.29.08:324][127]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Camera
+[2026.05.21-13.29.08:351][127]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.05.21-13.29.09:624][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.05.21-13.29.09:629][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.29.09:683][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.29.09:683][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.29.09:683][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.29.09:694][198]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.29.09:694][198]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Camera87A310834DB7DD96A1E2CCB56B3CA480.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.29.09:715][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.572 ms (total: 29.2 sec)
+[2026.05.21-13.29.09:768][198]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.29.09:768][198]LogContentValidation: Enabled validators:
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.29.09:768][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.29.09:768][198]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.29.09:796][198]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.21-13.29.27:340][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera
+[2026.05.21-13.29.27:342][592]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.21-13.29.32:829][880]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.05.21-13.29.43:387][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.21-13.29.53:686][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.05.21-13.29.53:689][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.29.53:743][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.29.53:755][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.29.53:756][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.29.53:756][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.29.53:766][115]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.29.53:766][115]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Camera23030DDB478C4A40D57F399046C7ACCF.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.29.53:777][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.422 ms (total: 29.3 sec)
+[2026.05.21-13.29.53:830][115]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.29.53:830][115]LogContentValidation: Enabled validators:
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.29.53:830][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.29.53:830][115]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.30.30:116][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.21-13.30.30:120][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.30.30:173][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.30.30:180][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.30.30:180][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.30.30:180][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.30.30:191][257]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.30.30:191][257]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Camera7EA551024B4ADCBD1978858E2401B777.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.30.30:201][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.431 ms (total: 29.4 sec)
+[2026.05.21-13.30.30:290][257]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.30.30:290][257]LogContentValidation: Enabled validators:
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.30.30:290][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.30.30:290][257]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.30.31:997][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.21-13.30.39:516][801]LogEditorTransaction: Undo Edit Intensity
+[2026.05.21-13.30.40:755][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.21-13.31.11:300][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18541.171875
+[2026.05.21-13.31.11:586][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.31.11:586][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18541.437500, Update Interval: 332.826324
+[2026.05.21-13.31.18:281][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.05.21-13.31.18:286][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.31.18:341][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.31.18:354][ 91]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.31.18:354][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.31.18:354][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.31.18:369][ 91]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.31.18:369][ 91]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_CameraD18E8BD241D86514002725A45917CD3A.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.31.18:380][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.128 ms (total: 29.5 sec)
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: Enabled validators:
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.31.18:453][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.31.18:453][ 91]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.31.20:040][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.21-13.31.35:798][117]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.21-13.31.37:518][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.21-13.31.41:910][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Traps/BP_Camera.BP_Camera_C
+[2026.05.21-13.31.41:910][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Traps/BP_Camera.BP_Camera_C
+[2026.05.21-13.31.41:912][463]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Levels/Lvl_TrapsTest.Lvl_TrapsTest:PersistentLevel.BP_Camera_C_0
+[2026.05.21-13.31.41:913][463]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Levels/Lvl_TrapsTest.Lvl_TrapsTest:PersistentLevel.BP_Camera_C_0
+[2026.05.21-13.31.43:298][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.21-13.31.43:320][542]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2026.05.21-13.31.43:323][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Traps/BP_Camera.BP_Camera_C
+[2026.05.21-13.31.43:323][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Traps/BP_Camera.BP_Camera_C
+[2026.05.21-13.31.43:325][542]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Levels/Lvl_TrapsTest.Lvl_TrapsTest:PersistentLevel.BP_Camera_C_1
+[2026.05.21-13.31.43:327][542]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera as actor: BP_Camera_C /Game/Levels/Lvl_TrapsTest.Lvl_TrapsTest:PersistentLevel.BP_Camera_C_1
+[2026.05.21-13.32.11:007][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.21-13.32.11:012][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.32.11:071][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl_TrapsTest" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.21-13.32.11:115][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.05.21-13.32.11:129][187]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_TrapsTest
+[2026.05.21-13.32.11:129][187]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/Lvl_TrapsTestD946AE9041564DC18240E6AE97033489.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap'
+[2026.05.21-13.32.11:136][187]LogFileHelpers: Saving map 'Lvl_TrapsTest' took 0.066
+[2026.05.21-13.32.11:137][187]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.32.11:149][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.32.11:149][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.32.11:149][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.32.11:158][187]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.32.11:158][187]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Camera7D3902B3472338F77BD5229D5A2B98B4.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.32.11:170][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.382 ms (total: 29.6 sec)
+[2026.05.21-13.32.11:223][187]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.21-13.32.11:223][187]LogContentValidation: Enabled validators:
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.32.11:223][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.32.11:223][187]AssetCheck: /Game/Levels/Lvl_TrapsTest Validating asset
+[2026.05.21-13.32.11:223][187]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.32.15:494][437]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.21-13.32.46:628][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.05.21-13.32.57:337][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.21-13.32.57:341][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.32.57:392][932]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.32.57:438][932]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.32.57:438][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.32.57:438][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.32.57:456][932]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.32.57:457][932]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Camera319767F742D552D9AA4970944749CA73.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.32.57:468][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.877 ms (total: 29.7 sec)
+[2026.05.21-13.32.57:524][932]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.32.57:524][932]LogContentValidation: Enabled validators:
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.32.57:524][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.32.57:524][932]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.34.22:411][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.21-13.34.22:415][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.34.22:463][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.34.22:534][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.34.22:534][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.34.22:534][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.34.22:567][951]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.34.22:568][951]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser9AE496A64961034BE2A617AA19924048.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.34.22:569][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-13.34.22:580][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-13.34.22:580][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-13.34.22:580][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-13.34.22:587][951]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-13.34.22:588][951]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_CameraF3D2687440230CAB95A2489D822F3105.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-13.34.22:596][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.704 ms (total: 29.9 sec)
+[2026.05.21-13.34.22:649][951]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.21-13.34.22:649][951]LogContentValidation: Enabled validators:
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.34.22:649][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.34.22:649][951]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.34.22:649][951]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-13.34.38:166][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-13.34.38:171][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.34.38:216][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.34.38:287][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.34.38:287][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.34.38:287][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.34.38:318][861]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.34.38:318][861]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserD782745D44AE973E5B7D20875F90B2EE.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.34.38:328][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.946 ms (total: 30.1 sec)
+[2026.05.21-13.34.38:388][861]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.34.38:388][861]LogContentValidation: Enabled validators:
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.34.38:388][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.34.38:388][861]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.34.40:427][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.21-13.35.03:098][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.21-13.35.03:102][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.35.03:148][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.35.03:220][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.35.03:220][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.35.03:220][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.35.03:251][329]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.35.03:251][329]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser615309604B8E3BC3656DFA83892E5996.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.35.03:270][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.768 ms (total: 30.2 sec)
+[2026.05.21-13.35.03:350][329]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.35.03:350][329]LogContentValidation: Enabled validators:
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.35.03:350][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.35.03:350][329]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.35.59:929][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.21-13.35.59:932][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.35.59:986][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.35.59:986][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.35.59:986][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.36.00:005][221]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.36.00:006][221]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser5577CE254B688579DAC8B9953392CA55.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.36.00:016][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.469 ms (total: 30.3 sec)
+[2026.05.21-13.36.00:069][221]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.36.00:070][221]LogContentValidation: Enabled validators:
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.36.00:070][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.36.00:070][221]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.37.06:976][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.21-13.37.10:548][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.05.21-13.37.18:494][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-13.37.18:498][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.37.18:563][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.37.18:563][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.37.18:563][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.37.18:585][418]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.37.18:586][418]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser2A13D9134828C9324C8856B9085721E0.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.37.18:597][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.203 ms (total: 30.4 sec)
+[2026.05.21-13.37.18:647][418]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.37.18:647][418]LogContentValidation: Enabled validators:
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.37.18:647][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.37.18:647][418]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.37.37:611][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18927.408203
+[2026.05.21-13.37.38:613][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.37.38:613][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18928.074219, Update Interval: 316.712555
+[2026.05.21-13.43.50:813][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19300.632812
+[2026.05.21-13.43.51:814][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.43.51:814][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19301.300781, Update Interval: 323.683594
+[2026.05.21-13.50.03:837][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19673.710938
+[2026.05.21-13.50.04:839][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.50.04:839][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19674.382812, Update Interval: 324.936066
+[2026.05.21-13.53.11:183][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.21-13.53.11:187][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.53.11:238][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.53.11:238][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.53.11:238][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.53.11:258][875]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.53.11:258][875]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser69DF0C074DF012633EA9DEB981FFE42F.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.53.11:267][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.964 ms (total: 30.5 sec)
+[2026.05.21-13.53.11:314][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.53.11:314][875]LogContentValidation: Enabled validators:
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.53.11:314][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.53.11:314][875]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.53.32:136][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.21-13.53.32:140][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.53.32:203][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.53.32:203][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.53.32:203][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.53.32:225][699]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.53.32:225][699]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser6FEDD4224BE1A13F091A9581341F8EE4.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.53.32:236][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.136 ms (total: 30.6 sec)
+[2026.05.21-13.53.32:292][699]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.53.32:292][699]LogContentValidation: Enabled validators:
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.53.32:292][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.53.32:292][699]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.55.20:142][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.21-13.55.20:147][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.55.20:207][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.55.20:301][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.55.20:303][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.55.20:303][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.55.20:332][875]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.55.20:333][875]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser40D6AD6B47BE5A427BC38EA8D7D23FDA.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.55.20:345][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.213 ms (total: 30.8 sec)
+[2026.05.21-13.55.20:415][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.55.20:415][875]LogContentValidation: Enabled validators:
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.55.20:415][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.55.20:415][875]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.56.09:191][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20039.083984
+[2026.05.21-13.56.10:191][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-13.56.10:191][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20039.751953, Update Interval: 357.722107
+[2026.05.21-13.56.42:390][699]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.05.21-13.56.42:399][699]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.21-13.56.43:419][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.21-13.56.43:424][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.56.43:492][756]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.56.43:569][756]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.56.43:569][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.56.43:569][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.56.43:603][756]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.56.43:603][756]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser03C7FD644B616A0BBE36AD8E2C8B7758.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.56.43:611][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.072 ms (total: 31.0 sec)
+[2026.05.21-13.56.43:670][756]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.56.43:670][756]LogContentValidation: Enabled validators:
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.56.43:670][756]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.56.43:670][756]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.56.55:574][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.21-13.56.55:578][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-13.56.55:631][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.56.55:631][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.56.55:631][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-13.56.55:651][466]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-13.56.55:651][466]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserE0C299F64F3EDAC387737E8D19F966DF.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-13.56.55:659][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.044 ms (total: 31.1 sec)
+[2026.05.21-13.56.55:712][466]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-13.56.55:712][466]LogContentValidation: Enabled validators:
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-13.56.55:712][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-13.56.55:713][466]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-13.58.01:518][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.05.21-13.58.51:634][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.21-13.58.51:636][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_TrapsTest' took 0.038
+[2026.05.21-13.58.51:638][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-13.58.51:753][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-13.58.51:753][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-13.58.51:796][171]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Traps/BP_Laser_Auto3
+[2026.05.21-13.58.51:796][171]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser_Auto366F687A94E082AEC28BE7BA7B7885C25.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/Autosaves/Game/BluePrints/Traps/BP_Laser_Auto3.uasset'
+[2026.05.21-13.58.51:798][171]LogFileHelpers: Auto-saving content packages took 0.161
+[2026.05.21-14.01.45:895][845]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.05.21-14.01.47:388][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.21-14.01.47:392][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.01.47:451][914]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.01.47:527][914]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.01.47:527][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.01.47:527][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.01.47:557][914]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.01.47:558][914]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserD056B6894D9E0BBEBF918DBA032A2CF4.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.01.47:583][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.746 ms (total: 31.3 sec)
+[2026.05.21-14.01.47:634][914]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.01.47:634][914]LogContentValidation: Enabled validators:
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.01.47:634][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.01.47:634][914]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.01.57:697][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.21-14.02.20:700][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.05.21-14.02.20:705][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.02.20:758][884]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.02.20:830][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.02.20:830][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.02.20:830][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.02.20:864][884]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.02.20:865][884]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser20B3ACFB486F72B4886E23BC00F75EC5.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.02.20:879][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.840 ms (total: 31.4 sec)
+[2026.05.21-14.02.20:930][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.02.20:930][884]LogContentValidation: Enabled validators:
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.02.20:930][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.02.20:930][884]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.03.06:530][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20456.517578
+[2026.05.21-14.03.06:698][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-14.03.06:699][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20456.669922, Update Interval: 320.730011
+[2026.05.21-14.04.41:432][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.05.21-14.04.41:436][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.04.41:505][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.04.41:582][309]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.04.41:582][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.04.41:582][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.04.41:611][309]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.04.41:612][309]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser5BDC3F5744DF15B171B980B024C0E140.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.04.41:623][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.069 ms (total: 31.6 sec)
+[2026.05.21-14.04.41:680][309]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.04.41:680][309]LogContentValidation: Enabled validators:
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.04.41:680][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.04.41:680][309]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.04.42:125][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.21-14.04.43:193][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.21-14.04.44:585][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.04.45:477][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.05.21-14.04.46:620][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.21-14.04.47:860][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.21-14.04.56:653][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.04.57:289][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.21-14.04.58:109][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.21-14.05.01:593][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.05.07:861][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.21-14.05.07:866][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.05.07:949][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.05.08:064][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.05.08:064][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.05.08:064][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.05.08:097][851]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.05.08:098][851]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser3197DB0B46E6A229D8DBD7ABD58C1297.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.05.08:106][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.941 ms (total: 31.9 sec)
+[2026.05.21-14.05.08:163][851]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.05.08:163][851]LogContentValidation: Enabled validators:
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.05.08:163][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.05.08:164][851]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.05.15:785][289]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2026.05.21-14.05.15:795][289]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.21-14.05.16:674][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.21-14.05.16:677][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.05.16:734][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.05.16:807][335]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.05.16:807][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.05.16:807][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.05.16:838][335]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.05.16:839][335]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserF27C426346F31C744065AC823E3DA3DA.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.05.16:847][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.988 ms (total: 32.0 sec)
+[2026.05.21-14.05.16:902][335]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.05.16:902][335]LogContentValidation: Enabled validators:
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.05.16:902][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.05.16:903][335]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.05.24:632][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.05.34:762][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.21-14.05.35:316][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.21-14.05.37:300][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.21-14.05.40:815][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.05.41:468][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.05.43:299][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.21-14.05.53:508][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.06.12:865][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.21-14.06.17:815][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.21-14.07.32:459][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.21-14.07.32:463][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.07.32:507][399]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.07.32:573][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.07.32:573][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.07.32:573][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.07.32:611][399]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.07.32:612][399]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserF783FAB542B0FE92D00361A4F57D069D.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.07.32:630][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.671 ms (total: 32.2 sec)
+[2026.05.21-14.07.32:690][399]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.07.32:691][399]LogContentValidation: Enabled validators:
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.07.32:691][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.07.32:691][399]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.07.33:256][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.07.34:732][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.21-14.07.35:459][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.21-14.07.37:646][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.21-14.07.38:211][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.05.21-14.07.53:141][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.05.21-14.07.53:145][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.07.53:225][607]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.07.53:299][607]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Laser.BP_Laser]
+[2026.05.21-14.07.53:299][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.07.53:299][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.07.53:328][607]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.07.53:328][607]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserD8F056BB4DFCEBB0080D2DA5A5CA0E76.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.07.53:338][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.426 ms (total: 32.4 sec)
+[2026.05.21-14.07.53:397][607]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.07.53:397][607]LogContentValidation: Enabled validators:
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.07.53:397][607]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.07.53:398][607]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.08.04:729][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.21-14.08.04:733][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.08.04:797][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.08.04:797][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.08.04:797][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.08.04:818][284]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.08.04:819][284]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser8540B1954B127D70F187EAA353A3D36A.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.08.04:827][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.249 ms (total: 32.5 sec)
+[2026.05.21-14.08.04:884][284]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.08.04:885][284]LogContentValidation: Enabled validators:
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.08.04:885][284]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.08.04:885][284]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.08.49:581][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.21-14.08.49:585][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.08.49:630][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.08.49:630][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.08.49:630][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.08.49:650][945]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.08.49:650][945]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser88D986724EB30D20477EBAB214F781C0.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.08.49:659][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.653 ms (total: 32.6 sec)
+[2026.05.21-14.08.49:752][945]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.08.49:752][945]LogContentValidation: Enabled validators:
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.08.49:752][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.08.49:752][945]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.08.52:544][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.21-14.08.52:548][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.08.52:607][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.08.52:607][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.08.52:607][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.08.52:626][106]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.08.52:627][106]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser94C0CE5644C5C0C0D4E9C4B9343CBF92.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.08.52:636][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.791 ms (total: 32.6 sec)
+[2026.05.21-14.08.52:685][106]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.08.52:685][106]LogContentValidation: Enabled validators:
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.08.52:685][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.08.52:685][106]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.08.57:749][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.08.57:752][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.08.57:811][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.08.57:811][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.08.57:811][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.08.57:831][407]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.08.57:832][407]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser1334D08A4D52F7AD2614A3A9C1E480C7.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.08.57:840][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.043 ms (total: 32.7 sec)
+[2026.05.21-14.08.57:888][407]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.08.57:888][407]LogContentValidation: Enabled validators:
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.08.57:888][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.08.57:888][407]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.03:162][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.05.21-14.09.03:167][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.03:218][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.03:218][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.03:218][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.03:240][721]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.03:240][721]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserE5FD61624435EE43AC7C6AA233E38F28.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.03:248][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.667 ms (total: 32.8 sec)
+[2026.05.21-14.09.03:303][721]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.03:303][721]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.03:303][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.03:303][721]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.23:557][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.21-14.09.23:562][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.23:614][929]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.23:614][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.23:614][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.23:635][929]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.23:635][929]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserBB71AE664C95B35B13C506809BAB14A5.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.23:643][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.976 ms (total: 32.9 sec)
+[2026.05.21-14.09.23:703][929]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.23:703][929]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.23:703][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.23:703][929]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.23:911][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20833.949219
+[2026.05.21-14.09.24:079][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-14.09.24:079][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20834.103516, Update Interval: 308.027588
+[2026.05.21-14.09.26:324][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.21-14.09.26:958][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.21-14.09.29:175][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.09.29:178][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.29:250][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.29:250][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.29:250][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.29:274][251]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.29:275][251]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser253A11D941546B278B1ACF8E77C8DB44.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.29:285][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.555 ms (total: 33.0 sec)
+[2026.05.21-14.09.29:340][251]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.29:340][251]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.29:340][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.29:340][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.29:340][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.29:341][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.29:341][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.29:341][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.29:341][251]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.30:124][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.21-14.09.30:870][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.05.21-14.09.31:641][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.21-14.09.38:759][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.21-14.09.38:762][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.38:816][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.38:816][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.38:816][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.38:836][805]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.38:836][805]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserA867B371466C1AB12C052DB99555E181.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.38:844][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.575 ms (total: 33.1 sec)
+[2026.05.21-14.09.38:896][805]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.38:897][805]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.38:897][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.38:897][805]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.42:674][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.09.42:678][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.42:739][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.42:739][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.42:739][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.42:763][ 26]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.42:763][ 26]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser679AFC2B43C9F2749A1F399C0CFCA47A.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.42:771][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.160 ms (total: 33.2 sec)
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.42:826][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.42:826][ 26]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.45:447][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.09.45:451][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.45:509][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.45:509][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.45:509][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.45:530][180]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.45:531][180]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserB221FBBA4E894E0F8B5C4FB2B05ABCD7.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.45:540][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.629 ms (total: 33.3 sec)
+[2026.05.21-14.09.45:591][180]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.45:591][180]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.45:591][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.45:591][180]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.47:052][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.21-14.09.47:056][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.09.47:115][265]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.09.47:115][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.09.47:115][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.09.47:137][265]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.09.47:138][265]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser735EA6D24E82C3F715463D81D12B9059.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.09.47:148][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.890 ms (total: 33.4 sec)
+[2026.05.21-14.09.47:207][265]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.09.47:207][265]LogContentValidation: Enabled validators:
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.09.47:207][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.09.47:207][265]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.09.48:365][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.21-14.09.49:236][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.21-14.10.27:262][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.21-14.10.27:267][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.10.27:332][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.10.27:332][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.10.27:332][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.10.27:354][643]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.10.27:355][643]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserA8A9D85F4E95F3F1CD54768E3697ABA5.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.10.27:364][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.407 ms (total: 33.5 sec)
+[2026.05.21-14.10.27:410][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.10.27:410][643]LogContentValidation: Enabled validators:
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.10.27:410][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.10.27:410][643]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.10.27:869][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.10.30:549][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.21-14.10.31:308][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.21-14.10.34:117][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.21-14.10.35:955][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.10.35:959][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.10.36:007][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.10.36:007][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.10.36:007][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.10.36:027][142]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.10.36:027][142]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_LaserA9C27F03433898E732D7828286517FE9.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.10.36:036][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.029 ms (total: 33.5 sec)
+[2026.05.21-14.10.36:100][142]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.10.36:100][142]LogContentValidation: Enabled validators:
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.10.36:100][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.10.36:100][142]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.10.42:639][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.10.42:642][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.10.42:696][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Traps/BP_Laser] ([2] browsable assets)...
+[2026.05.21-14.10.42:696][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Laser]
+[2026.05.21-14.10.42:696][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Laser" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset" SILENT=true
+[2026.05.21-14.10.42:721][531]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Laser
+[2026.05.21-14.10.42:721][531]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_Laser41FA6ADD4F12F26DC369EF90091408B8.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset'
+[2026.05.21-14.10.42:728][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.801 ms (total: 33.6 sec)
+[2026.05.21-14.10.42:787][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.10.42:787][531]LogContentValidation: Enabled validators:
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.10.42:787][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.10.42:787][531]AssetCheck: /Game/BluePrints/Traps/BP_Laser Validating asset
+[2026.05.21-14.10.44:767][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.10.45:546][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.21-14.10.47:301][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.11.06:871][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.05.21-14.11.08:966][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.21-14.11.11:875][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.21-14.11.36:819][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.21-14.11.37:352][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.11.38:311][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.05.21-14.11.39:195][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.21-14.11.45:980][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.21-14.13.44:836][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.21-14.13.46:963][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.21-14.13.52:206][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.14.09:054][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.21-14.14.14:112][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.21-14.14.15:356][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.21-14.14.26:875][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.21-14.14.26:879][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-14.14.26:932][556]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Traps/BP_Camera] ([2] browsable assets)...
+[2026.05.21-14.14.27:007][556]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Traps/BP_Camera.BP_Camera]
+[2026.05.21-14.14.27:008][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Traps/BP_Camera]
+[2026.05.21-14.14.27:008][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Traps/BP_Camera" FILE="../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset" SILENT=true
+[2026.05.21-14.14.27:030][556]LogSavePackage: Moving output files for package: /Game/BluePrints/Traps/BP_Camera
+[2026.05.21-14.14.27:031][556]LogSavePackage: Moving '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Saved/BP_CameraC9E116CD4B404406D25ADE89198EDDE3.tmp' to '../../../../../../MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Camera.uasset'
+[2026.05.21-14.14.27:042][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.136 ms (total: 33.8 sec)
+[2026.05.21-14.14.27:117][556]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-14.14.27:117][556]LogContentValidation: Enabled validators:
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-14.14.27:117][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-14.14.27:117][556]AssetCheck: /Game/BluePrints/Traps/BP_Camera Validating asset
+[2026.05.21-14.14.29:006][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.21-14.14.29:406][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.05.21-14.15.04:490][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.15.28:816][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21198.984375
+[2026.05.21-14.15.28:963][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-14.15.28:963][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21199.117188, Update Interval: 333.622864
+[2026.05.21-14.15.29:365][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.21-14.15.29:966][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.21-14.15.30:491][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.21-14.16.17:189][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.05.21-14.17.31:502][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.21-14.17.35:552][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.05.21-14.17.38:326][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.21-14.17.45:224][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
