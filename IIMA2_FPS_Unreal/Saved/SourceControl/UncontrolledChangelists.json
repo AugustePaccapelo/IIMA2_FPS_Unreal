@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_MovableLasersWay.uasset",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/Lasers/BP_Laser_Alarm.uasset",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/Lasers/BP_LaserParent.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/Data/BPI_Trap.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Traps/BP_Laser.uasset",
