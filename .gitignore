@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+IIMA2_FPS_Unreal/Saved/Logs/IIMA2_FPS_Unreal.log
+IIMA2_FPS_Unreal/Intermediate
+IIMA2_FPS_Unreal/Saved
