@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Widgets/WBP_PauseMenu.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Game/HUD_Game.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BluePrints/Game/GM_MainMenu.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/PC_Player.uasset"
+=======
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_MainMenu.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Maps/Lvl_TestTraps.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserParent.uasset",
@@ -21,6 +27,7 @@
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/BP_PlayerTestFloating.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserTest.uasset"
+>>>>>>> Traps
 			]
 		}
 	]
