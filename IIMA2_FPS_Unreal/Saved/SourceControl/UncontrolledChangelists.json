@@ -5,19 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserParent.uasset",
-				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_MovableLasersWay.uasset",
-				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Maps/Lvl_TestTraps.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_MainMenu.umap",
-				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Blueprints/Game/GM_MainMenu.uasset",
-				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/BP_PlayerTestFloating.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Maps/Lvl_TestTraps.umap",
-				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserParent.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_MovableLasersWay.uasset",
 				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/BP_WallsTest.uasset",
-				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserTest.uasset",
-				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_Laser_Alarm.uasset"
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_Laser_Alarm.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserEjection.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_Laser.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Data/E_LaserType.uasset",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserParent.uasset",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_MovableLasersWay.uasset",
+				"C:/GAMES/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Maps/Lvl_TestTraps.umap",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Blueprints/Game/GM_MainMenu.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/BP_PlayerTestFloating.uasset",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/Levels/Lvl_TrapsTest.umap",
+				"C:/MyGames/IIMA2_FPS_Unreal/IIMA2_FPS_Unreal/Content/BPs/Traps/Lasers/BP_LaserTest.uasset"
 			]
 		}
 	]
